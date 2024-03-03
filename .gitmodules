@@ -1,0 +1,6 @@
+[submodule "Chinese-cards-FrontEnd"]
+	path = Chinese-cards-FrontEnd
+	url = https://github.com/Blinded4545/Chinese-cards-FrontEnd
+[submodule "Chinese-cards-BackEnd"]
+	path = Chinese-cards-BackEnd
+	url = https://github.com/Blinded4545/Chinese-cards-BackEnd
